@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yahia785
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Electrical Engineering
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mtyahia@vt.edu
 
